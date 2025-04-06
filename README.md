@@ -90,8 +90,6 @@ Incorporate geospatial risk factors using GIS data
 
 Scale the system using Apache Hadoop/Spark for big data processing
 
-Authors: 
-
-Sudeeksha Vandrangi, Nayan Bhiwapurkar, Shreyas Hingmire, Vaishnavi Chunchu, Toshal Warke
+### Authors: Sudeeksha Vandrangi, Nayan Bhiwapurkar, Shreyas Hingmire, Vaishnavi Chunchu, Toshal Warke
 
 📄 License This project is open-source and licensed under the MIT License.
